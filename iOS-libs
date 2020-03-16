@@ -1,0 +1,17 @@
+1.https://github.com/Grouper/FlatUIKit. FlatUIKit 是一组扁平风格的 iOS 组件集合，
+其灵感来自于 Flat UI 和 Kyle Miller. 该风格通过分类的方式替换已有的 UIKit 组件，可非常直接的集成到你的应用中。
+2.  pod 'SnapKit', '~> 5.0.0' https://github.com/SnapKit/SnapKit A Swift Autolayout DSL for iOS & OS X http://snapkit.io
+
+3.  pod 'CocoaAsyncSocket'. udp/tcp 通信协议
+
+4.pod 'AFNetworking', '~> 3.0' http/https网络请求库 
+
+5.   pod 'AFNetworkActivityLogger', '~> 3.0.0' 日志打印库
+
+6. pod 'JGProgressHUD' 等待加载框
+  
+7.  pod 'Toast-Swift', '~> 5.0.1' toast弹框
+  
+8。  pod 'SideMenu', '~> 6.0' 侧滑菜单
+
+
